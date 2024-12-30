@@ -1,3 +1,8 @@
+/*
+Problem statement
+https://www.codewars.com/kata/52f787eb172a8b4ae1000a34/c
+*/
+
 #include<stdio.h>
 #include<math.h>
 
